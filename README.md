@@ -6,7 +6,7 @@ Estudiante de Ingeniería de Sistemas y Computación de la Universidad Nacional 
   
 🔭 Actualmente, me encuentro trabajando en <a href="https://sitlen.com/">Sitlen</a>.
 <br><br>
-📚 Estoy enfocado en mejorar mis habilidades en desarrollo backend para aplicaciones web, con un enfoque en la creación de APIs eficientes, escalables y seguras. Trabajo con tecnologías como Node.js, Express y TypeScript. Me interesa la optimización del rendimiento, el diseño de arquitecturas robustas y la integración de bases de datos.
+📚 Mi objetivo es mejorar mis habilidades en desarrollo backend para aplicaciones web, con un enfoque en la creación de APIs eficientes, escalables y seguras. Trabajo con tecnologías como Node.js, Express y TypeScript. Me interesa la optimización del rendimiento, el diseño de arquitecturas robustas y la integración de bases de datos.
 </p>
 
 ---
